@@ -1,0 +1,15 @@
+F:\GB\KontrolJob\Job\bin\Debug\net6.0\Job.exe
+F:\GB\KontrolJob\Job\bin\Debug\net6.0\Job.deps.json
+F:\GB\KontrolJob\Job\bin\Debug\net6.0\Job.runtimeconfig.json
+F:\GB\KontrolJob\Job\bin\Debug\net6.0\Job.dll
+F:\GB\KontrolJob\Job\bin\Debug\net6.0\Job.pdb
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.csproj.AssemblyReference.cache
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.AssemblyInfoInputs.cache
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.AssemblyInfo.cs
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.csproj.CoreCompileInputs.cache
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.dll
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\refint\Job.dll
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.pdb
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\Job.genruntimeconfig.cache
+F:\GB\KontrolJob\Job\obj\Debug\net6.0\ref\Job.dll
